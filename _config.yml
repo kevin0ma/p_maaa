@@ -1,0 +1,22 @@
+
+title: Kevin Ma
+email:
+description: Kevin is a designer in NYC.
+url: "kevinmaaa.com"
+baseurl: ""
+twitter_username: messybin
+github_username:  kevinyma
+email:
+
+sass:
+  sass_dir: _sass
+collections:
+  projects:
+    output: true
+    permalink: /makes/:path/
+  misc:
+    output: true
+    permalink: /:path/
+include: ['_pages']
+markdown: kramdown
+port: 4000
