@@ -14,7 +14,8 @@ class: "post"
 
 	      <a class="link" href="{{ post.url | prepend: site.baseurl }}">
 
-	  		<img class="image" class="blog-photo" src="{{site.baseurl}}/img/blog/{{ post.imgName }}">
+				{% if post.imgName == "" %}<div class="imgReplacer"></div> {% else %}
+	  		<img class="image" class="blog-photo" src="{{site.baseurl}}/img/blog/{{ post.imgName }}"> {% endif %}
 	  		<div class="color-bar blue-bar"></div>
 	  	 </a>
 

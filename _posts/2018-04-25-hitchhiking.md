@@ -4,7 +4,6 @@ title: "Hitchhiking"
 imgName: "skuds.png"
 description: "Half a year on the road and some thoughts."
 date: 2018-4-25 09:37:43 +0800
-
 category: blog
 
 ---
