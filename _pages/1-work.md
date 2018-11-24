@@ -22,8 +22,8 @@ class: "post"
   <div class="col-md-6"><img src="{{ site.baseurl }}/img/work/eden.jpg"></div>
   <div class="col-md-5 col-md-offset-1"><br><br><br><img src="{{ site.baseurl }}/img/work/boy.png"></div>
 
-  <br><br><br><br><br><br>
-  <div class="col-md-7"><img src="{{ site.baseurl }}/img/work/drowning.jpg"></div>
+
+  <div class="col-md-7"><br><br><br><br><br><img src="{{ site.baseurl }}/img/work/drowning.jpg"></div>
 </div>
   <div class="col-md-7">
     <br><br><br><br><br><br><br>
@@ -37,5 +37,4 @@ class: "post"
     <br><br><br><br></div>
   </div>
 </div>
-<div class="col-md-7"><img src="{{ site.baseurl }}/img/work/VINLIVE.jpg"></div>
-<br><br><br><br><br>
+<div class="col-md-7"><img src="{{ site.baseurl }}/img/work/VINLIVE.jpg"><br><br><br><br><br></div>
